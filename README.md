@@ -15,35 +15,20 @@ I started with the idea of wanting to code some music. I am not familiar with ne
 
 I then experimented with making music on gibber, and tried to trasncribe someone songs into code, which proved to be quite difficult. Eventually I ended up mixing the demos available on the site to create a tune that I enjoy.
 
-> p = Drums('x*o*x*o-')
+> p = Drums('xox*o-')
 > p.pitch = Mouse.Y
 
-> q = FM({ attack: ms(1) })
-> q.index = a.out
+> q = FM({ attack: ms(1) }) 
+> q.index = a.out 
 > q.cmRatio = Mouse.X
 
-> q.fx.add(
->  Delay({
->    time:     Mouse.X,
->    feedback: Mouse.Y
->  })
-> )
+> q.fx.add( Delay({ time: Mouse.X, feedback: Mouse.Y }) )
 
-> q.note.seq( 
->  ['c2','c2','c2','c3','c4'].random(),
->  [1/4,1/8,1/16].random(1/16,2) 
->)
+> q.note.seq( ['c2','c2','c2','c3','c4'].random(), [1/4,1/8,1/16].random(1/16,2) )
 
->   c = Drums('x*ox*xo-', 1/16 )
->      .pitch.seq( [.5,1,2,4].rnd() )
->      .pan.seq( Rndf(-1,1) )
+> c = Drums('xoxxo-', 1/16 ) .pitch.seq( [.5,1,2,4].rnd() ) .pan.seq( Rndf(-1,1) )
 
->   d = Pluck()
->      .note.seq( Rndi(100,300), 1/16 )
->      .blend.seq( Rndf() )
->      .fx.add( Schizo() )
->      .fadeIn( 8, .75 )
-
+> d = Pluck() .note.seq( Rndi(100,300), 1/16 ) .blend.seq( Rndf() ) .fx.add( Schizo() ) .fadeIn( 8, .75 )
 
 
 
