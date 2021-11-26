@@ -12,6 +12,13 @@ I started with the idea of wanting to code some music. I am not familiar with ne
 > m.play(notes, times)
 > d = Drums ('xoxo', 1/8)
 
+All the resources I read/watched listed here:
+- Introduction to Gibber https://vimeo.com/80698032
+- How to code music? - Laura Silvanavičiūtė https://www.youtube.com/watch?v=hqWIdaAjdmI&t=2018s
+- Music from code - Gibber in Google Chrome https://www.youtube.com/watch?v=uly7DgtfRKI
+- gibber demo https://www.youtube.com/watch?v=8jnER-sNfwc&t=63s
+- https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/29842302#29842302
+
 
 I then experimented with making music on gibber, and tried to trasncribe someone songs into code, which proved to be quite difficult. Eventually I ended up mixing the demos available on the site to create a tune that I enjoy.
 
