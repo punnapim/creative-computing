@@ -67,7 +67,6 @@ Upon watching the tutorials I found out that gibber.cc could also create animati
 >     Mouse.y
 >  )
   
->  // randomize color and line thickness
 >  a.stroke( a.randomColor(), rndi(1,100) )
 >}
 >
