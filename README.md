@@ -1,6 +1,6 @@
 # Coding AudioVisuals #
 
-I started with the idea of wanting to code some music. I am not familiar with neither working with coding or music that well. So it required watching a couple tutorials for different ways to code music eg. on gibber.cc, on sonic pi, etc. I decided to go with gibber.cc since it did not require any downloading, since everything is online, it is more accessible. I followed a couple tutorials, including learning this code, play *"Another One Bites The Dust"* by *Queen.* You can hear by entering it into the gibber.cc website. 
+I started with the idea of wanting to code some music. I am not familiar with neither working with coding or music. So it required watching a couple tutorials for different ways to code music eg. on gibber.cc, on sonic pi, etc. I decided to go with gibber.cc since it did not require any downloading, since everything is online, it is more accessible. I followed a couple tutorials, including learning this code, play *"Another One Bites The Dust"* by *Queen.* You can hear by entering it into the gibber.cc website. 
 
 
 > s = Synth('bleep');
