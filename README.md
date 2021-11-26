@@ -13,8 +13,8 @@ I started with the idea of wanting to code some music. I am not familiar with ne
 > d = Drums ('xoxo', 1/8)
 
 All the resources I read/watched listed here:
-- Introduction to Gibber https://vimeo.com/80698032
 - How to code music? - Laura Silvanavičiūtė https://www.youtube.com/watch?v=hqWIdaAjdmI&t=2018s
+- Introduction to Gibber https://vimeo.com/80698032
 - Music from code - Gibber in Google Chrome https://www.youtube.com/watch?v=uly7DgtfRKI
 - gibber demo https://www.youtube.com/watch?v=8jnER-sNfwc&t=63s
 - https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/29842302#29842302
