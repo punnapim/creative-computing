@@ -15,7 +15,6 @@ I started with the idea of wanting to code some music. I am not familiar with ne
 
 I then experimented with making music on gibber, and tried to trasncribe someone songs into code, which proved to be quite difficult. Eventually I ended up mixing the demos available on the site to create a tune that I enjoy.
 
-> //Music
 > p = Drums('x*o*x*o-')
 > p.pitch = Mouse.Y
 
