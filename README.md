@@ -59,3 +59,4 @@ Upon watching the tutorials I found out that gibber.cc could also create animati
 
 To conclude, I felt like the brief was inflexible and challenging at the beginning but after researching and experimenting with creative computing, I understand that coding is making a bunch of connections to create a big connection that presents as something new. I've found this learning process interesting and I feel like I've learned a lot outside my usual comfort zone. I am happy with my progress so far with creative computing and will definitely be experimenting with gibber.cc a lot more and I aim to be able to create a more original work next time, with less help from demos.
 
+You can access the completed audio visual via this link, press Ctrl and Enter to play, Ctrl and "." to stop :) https://gibber.cc/?path=xfterlife/publications/punnapim_cc_test1
