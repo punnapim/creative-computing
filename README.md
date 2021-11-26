@@ -57,6 +57,7 @@ Upon watching the tutorials I found out that gibber.cc could also create animati
 > a = Canvas()
 
 > a.draw = function() {
+> Mouse.on()
 
 > a.fade( .05 )
   
